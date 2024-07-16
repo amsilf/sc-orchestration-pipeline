@@ -1,4 +1,4 @@
-markdownCopy# Infrastructure as Code Pipeline
+# Infrastructure as Code Pipeline
 
 This Azure DevOps pipeline orchestrates the build, deployment, and infrastructure management process using Docker, Helm, and Terraform.
 
